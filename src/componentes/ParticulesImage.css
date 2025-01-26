@@ -1,0 +1,12 @@
+.App-logo-container {
+    position: relative;
+    width: 300px; /* Ajuste conforme necessário */
+    height: 300px; /* Ajuste conforme necessário */
+  }
+  
+  .App-logo {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
